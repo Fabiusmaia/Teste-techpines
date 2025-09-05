@@ -60,7 +60,7 @@ const TopSongsList: React.FC<TopSongsListProps> = ({
   return (
     <>
       <Title level={2} style={{ textAlign: 'center', marginBottom: 30 }}>
-        🎶 Top 6 Tião Carreiro & Pardinho
+        🎶 Top 5 Tião Carreiro & Pardinho
       </Title>
       <List
         grid={{ gutter: 16, column: 3 }}

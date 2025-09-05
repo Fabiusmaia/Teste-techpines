@@ -32,7 +32,7 @@ const AppHeader: React.FC = () => {
       }}
     >
       <Text style={{ color: '#fff', fontSize: 20, fontWeight: 'bold' }}>
-        Top 6 Tião Carreiro e Pardinho 🎵
+        Top 5 Tião Carreiro e Pardinho 🎵
       </Text>
 
       <div>
