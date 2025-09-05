@@ -58,7 +58,7 @@ docker-compose up -d
 4. Instale dependências do Laravel (dentro do container `app`):
 
 ```bash
-docker exec -it backend_app_1 bash
+docker exec -it laravel-app bash
 composer install
 php artisan key:generate
 php artisan migrate
@@ -98,7 +98,7 @@ npm start
 
 * Registrar e logar usuários
 * Sugerir músicas do YouTube (qualquer usuário, `approved=false`)
-* Listar **Top 6 músicas** e **outras músicas com paginação**
+* Listar **Top 5 músicas** e **outras músicas com paginação**
 * Aprovar/reprovar músicas (apenas usuários autenticados)
 * Editar, excluir músicas (usuários autenticados)
 * Formulários com validação e feedback
