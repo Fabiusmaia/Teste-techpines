@@ -1,6 +1,6 @@
-# 🎵 TechPines Music App
+# 🎵 Top 5 Tião Carreiro & Pardinho
 
-Aplicação web para sugerir, listar e aprovar músicas do YouTube, construída com **Laravel 11** no backend e **ReactJS** no frontend, com API REST, Docker e testes automatizados com **Pest**.
+Aplicação web para sugerir, listar e aprovar músicas do Tião Carreiro & Pardinho, construída com **Laravel 11** no backend e **ReactJS** no frontend, com API REST, Docker e testes automatizados com **Pest**.
 
 ---
 
