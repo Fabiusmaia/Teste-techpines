@@ -78,7 +78,7 @@ class SongController extends Controller
 
         $topIds = Song::where('approved', true)
             ->orderBy('plays', 'desc')
-            ->limit(6)
+            ->limit(5)
             ->pluck('id')
             ->toArray();
 
