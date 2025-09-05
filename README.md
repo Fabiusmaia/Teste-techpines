@@ -35,7 +35,7 @@ docker-compose.yml
 
 ---
 
-### 1️⃣ Backend
+### 1️⃣ Como rodar
 
 1. Acesse a pasta do backend:
 
@@ -66,31 +66,10 @@ php artisan db:seed
 exit
 ```
 
-5. A API estará disponível em `http://localhost:8000/api`.
+5. A API estará disponível em `http://localhost:80/api`.
 
----
 
-### 2️⃣ Frontend
-
-1. Acesse a pasta do frontend:
-
-```bash
-cd frontend
-```
-
-2. Instale dependências:
-
-```bash
-npm install
-```
-
-3. Suba o servidor de desenvolvimento:
-
-```bash
-npm start
-```
-
-4. A SPA estará disponível em `http://localhost:3000`.
+6. A SPA estará disponível em `http://localhost:3000`.
 
 ---
 
