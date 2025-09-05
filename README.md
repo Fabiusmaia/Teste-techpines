@@ -58,7 +58,7 @@ docker-compose up -d
 4. Instale dependências do Laravel (dentro do container `app`):
 
 ```bash
-docker exec -it backend_app_1 bash
+docker exec -it laravel-app bash
 composer install
 php artisan key:generate
 php artisan migrate
