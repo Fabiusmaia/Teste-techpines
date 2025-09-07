@@ -118,8 +118,3 @@ docker exec -it laravel-app
 
 ---
 
-## 💡 Sugestões
-
-* Configurar variáveis do `.env` para MySQL, porta, ou JWT caso seja necessário.
-* Criar usuário admin no seed inicial para testar funcionalidades de aprovação.
-* Ajustar layout com Ant Design conforme preferir.
